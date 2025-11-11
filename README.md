@@ -36,13 +36,13 @@ Proyek ini merupakan bagian dari portofolio data analysis saya untuk menunjukkan
 
 ## 📸 Preview Dashboard
 > *(Tambahkan screenshot di sini — contoh file `dashboard-preview.png`)*  
-> ![Dashboard Preview](dashboard-preview.png)
+> ![Dashboard Preview](Simpanan.png)
 
 ---
 
 ## 🧩 Dataset
 Data diambil dari publikasi resmi:
-> 📘 **Sumber Data:** [Bank Indonesia – Statistik Perbankan Indonesia 2025](https://www.bi.go.id)
+> 📘 **Sumber Data:** [Bank Indonesia – Statistik Perbankan Indonesia 2025](https://www.bi.go.id/id/statistik/)
 
 ---
 
