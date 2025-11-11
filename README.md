@@ -35,7 +35,7 @@ Proyek ini merupakan bagian dari portofolio data analysis saya untuk menunjukkan
 ---
 
 ## 📸 Preview Dashboard
-> ![Dashboard Preview](Simpanan.png)
+> ![Dashboard Preview](Deposit_Dashboard.png)
 
 ---
 
