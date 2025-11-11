@@ -41,15 +41,15 @@ Proyek ini merupakan bagian dari portofolio data analysis saya untuk menunjukkan
 
 ## 🧩 Dataset
 Data diambil dari publikasi resmi:
-> 📘 **Sumber Data:** [Bank Indonesia – Statistik Perbankan Indonesia 2025](https://www.bi.go.id/id/statistik/)
+> 📘 **Sumber Data:** [Bank Indonesia – Statistik Perbankan Indonesia 2025](https://www.bi.go.id/id/statistik/ekonomi-keuangan/seki/Default.aspx#headingOne)
 
 ---
 
-## 👩‍💻 Tentang Pembuat
+## 👩‍💻 About Me
 **Siti Sahrani**  
-Data Enthusiast | Calon ODP IT Bank | CPNS Lecturer  
+Master’s in Mathematics | SQL & Data Enthusiast | Passionate About IT & Problem-Solving
 
-📫 [LinkedIn](https://www.linkedin.com) | [Email](mailto:emailkamu@example.com) | [GitHub](https://github.com/username)
+📫 [LinkedIn](www.linkedin.com/in/sitiishrn) | [Email](mailto:sitishrn30@gmail.com) | [GitHub](https://github.com/username)
 
 ---
 
