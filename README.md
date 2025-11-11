@@ -35,7 +35,6 @@ Proyek ini merupakan bagian dari portofolio data analysis saya untuk menunjukkan
 ---
 
 ## 📸 Preview Dashboard
-> *(Tambahkan screenshot di sini — contoh file `dashboard-preview.png`)*  
 > ![Dashboard Preview](Simpanan.png)
 
 ---
