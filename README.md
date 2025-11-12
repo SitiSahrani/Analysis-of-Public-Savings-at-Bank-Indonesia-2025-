@@ -30,7 +30,7 @@ Proyek ini merupakan bagian dari portofolio data analysis saya untuk menunjukkan
 |-----|------------|-------------|
 | 💰 **Total Simpanan Nasional** | Total seluruh simpanan (Rupiah + Valas) | KPI Card |
 | 💵 **Total Simpanan Rupiah VS Valuta Asing** | Dominasi uang lokal | KPI Card |
-| 🏦 **Bank dengan Simpanan Tertinggi** | Lihat siapa penyumbang terbesar | Bar Chart |
+| 🏦 **Bank dengan Simpanan Tertinggi** | Bank penyumbang terbesar | Bar Chart |
 
 ---
 
