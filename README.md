@@ -49,7 +49,7 @@ Data diambil dari publikasi resmi:
 **Siti Sahrani**  
 Master’s in Mathematics | SQL & Data Enthusiast | Passionate About IT & Problem-Solving
 
-📫 [LinkedIn](www.linkedin.com/in/sitiishrn) | [Email](mailto:sitishrn30@gmail.com) | [GitHub](https://github.com/SitiSahrani)
+📫 [LinkedIn]((https://www.linkedin.com/in/sitiishrn/)) | [Email](mailto:sitishrn30@gmail.com) | [GitHub](https://github.com/SitiSahrani)
 
 ---
 
