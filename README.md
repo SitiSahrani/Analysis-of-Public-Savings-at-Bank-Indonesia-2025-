@@ -34,9 +34,9 @@ Proyek ini merupakan bagian dari portofolio data analysis saya untuk menunjukkan
 
 ---
 
-## 📸 Preview Dashboard
+## 📸 Preview Dashboard in Excel & Power BI
 > ![Dashboard Preview](savings1.png)
-(savings1.png)
+> ![Dashboard Preview](savings1.png)
 ---
 
 ## 🧩 Dataset
